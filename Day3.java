@@ -1,3 +1,5 @@
+//Write a program to find ASCII values of a character
+
 import java.util.Scanner;
 class Day3
 {
