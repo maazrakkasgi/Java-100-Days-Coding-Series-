@@ -1,3 +1,5 @@
+//Write a program to identify if the character is a vowel or consonant.
+
 import java.util.Scanner;
 class Day1
 {
