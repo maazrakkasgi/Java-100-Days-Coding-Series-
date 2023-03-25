@@ -1,3 +1,5 @@
+// Write a program to find Sum of N natural numbers
+
 import java.util.Scanner;
 public class Day13{
     public static void main (String args[]){
