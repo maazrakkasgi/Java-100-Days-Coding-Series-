@@ -1,3 +1,5 @@
+//Write a program to find the Factors of a number
+
 import java.util.Scanner;
 public class Day17{
     public static void main (String args[]){
