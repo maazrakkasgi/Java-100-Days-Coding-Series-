@@ -1,3 +1,5 @@
+//  Write a program to identify if the number is Palindrome or not
+
 import java.util.Scanner;
 
 public class Day21{
