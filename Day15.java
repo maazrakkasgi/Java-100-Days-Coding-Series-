@@ -1,3 +1,5 @@
+//Write a program to identify if the number is Strong number or not
+
 import java.util.Scanner;
 
 public class Day15{
