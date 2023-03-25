@@ -1,3 +1,5 @@
+//Write a program to identify if the character is an alphabet or not.
+
 import java.util.Scanner;
 class Day2
 {
