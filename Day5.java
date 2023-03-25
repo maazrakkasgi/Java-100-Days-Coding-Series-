@@ -1,3 +1,5 @@
+//Write a program to identify if the number is even or odd
+
 import java.util.Scanner;
 class Day5
 {
