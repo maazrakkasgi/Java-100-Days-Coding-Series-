@@ -1,3 +1,4 @@
+//Write a program to print Pyramid pattern using stars
 import java.util.*;
 public class Day24 {
     public static void main (String args []){
