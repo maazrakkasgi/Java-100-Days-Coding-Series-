@@ -1,3 +1,4 @@
+//Write a Program to print Length of the string without using strlen() function
 import java.util.*;
 public class Day30{
     public static void main(String[] args) {
