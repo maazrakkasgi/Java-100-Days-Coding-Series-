@@ -1,3 +1,4 @@
+// Write a Program to Toggle each character in a string
 import java.util.*;
 public class Day31 {
     void toggle(String str){
